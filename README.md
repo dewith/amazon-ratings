@@ -1,5 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dewith/amazon-reviews/HEAD?filepath=Proyecto%203%20-%20Rese%C3%B1as%20de%20Amazon.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dewith/amazon-ratings.git/HEAD?filepath=P3_amazon.ipynb)
 
-
-# NLP: Rating prediction based on Amazon reviews
-Using the spanish Amazon review corpus to predict the rating given the user's review. Project made for Acamica's Data Sceince course.
+# Ratings Prediction ⭐
+Using the spanish Amazon Review Corpus to predict the rating given the user's review. Project made for Data Science Course in Acamica.
